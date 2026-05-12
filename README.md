@@ -9,7 +9,7 @@ The dashboard helps in understanding customer purchasing behavior, regional sale
 
 ## Dashboard Preview
 
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+![Dashboard Overview](Screenshots/dashboard-overview_img.png)
 
 ---
 
